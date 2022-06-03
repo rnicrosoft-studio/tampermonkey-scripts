@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         Set CTAN Mirror
 // @name:zh      设置 CTAN 默认镜像
+// @name:zh-CN   设置 CTAN 默认镜像
 // @namespace    https://github.com/rnicrosoft-studio/
 // @version      0.1
 // @description  Set to use a fixed mirror when browsing CTAN files.
-// @description:zh   设置浏览 CTAN 文件时使用一个固定的镜像。
+// @description:zh  设置浏览 CTAN 文件时使用一个固定的镜像。
+// @description:zh-CN   设置浏览 CTAN 文件时使用一个固定的镜像。
 // @author       rnicrosoft
 // @supportURL   https://github.com/rnicrosoft-studio/tampermonkey-scripts
 // @match        *://www.ctan.org/pkg/*
